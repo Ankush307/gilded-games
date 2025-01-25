@@ -3,7 +3,7 @@ import CartoonImg from '../assets/images/webp/utility-cartoon.webp'
 
 const Utility = () => {
     return (
-        <div className='bg-utility-img lg:pt-[105px] lg:pb-48 md:pb-24 mt-[-1px] '>
+        <div className='bg-utility-img lg:pt-[105px] lg:pb-48 md:pb-24 mt-[-1px]'>
             <div className="max-w-[1200px] mx-auto max-xl:px-5">
                 <div className="flex max-lg:flex-wrap max-lg:gap-10 max-sm:gap-5 justify-center lg:justify-between">
                     <div className="flex flex-col justify-center">
